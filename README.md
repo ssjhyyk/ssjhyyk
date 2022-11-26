@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ssjhyyk
+- 👀 I’m interested in AI and ML.
+- 🌱 I’m currently learning Backend using JS and Py.
+- 📫 How to reach me @yoongles_paw on twt.
